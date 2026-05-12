@@ -4,7 +4,7 @@
   <h1>我的 GitHub 视频播放器</h1>
   <!-- 核心：HTML5 原生播放器 -->
   <video controls width="800">
-    <source src="https://raw.githubusercontent.com/YamadaQAQ/video-player/main/123.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/YamadaQAQ/video-player/main/00000106.mp4" type="video/mp4">
     你的浏览器不支持 HTML5 视频。
   </video>
 </body>
